@@ -12,7 +12,7 @@
     </q-header>
     <q-footer elevated>
         <q-toolbar class="bg-white text-blue container">
-          <q-toolbar-title class="Endereço">Endereço: Q SRTV/SUL QUADRA 701 CONJUNTO L LOTE 38 <br/> CNPJ:37.311.173/0001-30 </q-toolbar-title>
+          <q-toolbar-title class="Endereço">Address: Q SRTV/SUL QUADRA 701 CONJUNTO L LOTE 38 <br/> CNPJ:37.311.173/0001-30 </q-toolbar-title>
         </q-toolbar>
       </q-footer>
     <q-page-container>
