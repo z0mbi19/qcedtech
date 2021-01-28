@@ -5,11 +5,7 @@
   "productName": "Quasar App",
   "author": "z0mbi19 <32523746+z0mbi19@users.noreply.github.com>",
   "private": true,
-  "scripts": {
-    "build": "quasar build",
-    "start": "node server.js",
-    "heroku-postbuild": "yarn && yarn build"
-  },
+  "scripts": { "start": "node index.js", "build": "yarn" },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
     "connect-history-api-fallback": "^1.6.0",
