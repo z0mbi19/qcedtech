@@ -2,8 +2,8 @@
   <q-page-container class="flex flex-center">
     
     <div class="row" id="home">
-      <div class="col-6 ">
-        <h3 class="texto-principla" >Consultancy and software factory</h3>
+      <div class="col-8" >
+        <h3 class="texto-principla" width="100%" >Consultancy and software factory</h3>
         <div class="row " >
           <q-btn class="btn-talk">
             <a href="mailto:victor@qcedtech.com" >Talk to us</a>
@@ -11,8 +11,8 @@
 
         </div>
       </div>
-      <div class="col-5"  >
-        <img src="../assets/international.png" width="90%"/>
+      <div class="col" >
+        <img src="../assets/international.png" width="100%"/>
       </div>
         <div class="">
           
@@ -38,6 +38,7 @@ div {
 #home{
   display: flex;
   align-items: center;
+
 }
 .btn-talk{
   display: flex;
